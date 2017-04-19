@@ -269,10 +269,10 @@ input, textarea {
 .nav-wrap {
   width: 640px; 
 }
-.name {margin-top: -100px; width: 100%;}
+.name {margin-top: -90px; width: 100%;}
    
   nav {}
-    nav ul {float: none; margin-top: 100px; }
+    nav ul {float: none; margin-top: 90px; }
     nav li {display: inline; list-style: none;}
     nav a {text-decoration: none; padding: 60px; }
     nav a:hover { color: #C00; }
